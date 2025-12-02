@@ -4,11 +4,7 @@
     "npm:@sveltejs/adapter-auto@7": "7.0.0_@sveltejs+kit@2.49.0__@sveltejs+vite-plugin-svelte@6.2.1___svelte@5.45.3____acorn@8.15.0___vite@7.2.6____picomatch@4.0.3__svelte@5.45.3___acorn@8.15.0__vite@7.2.6___picomatch@4.0.3__acorn@8.15.0_@sveltejs+vite-plugin-svelte@6.2.1__svelte@5.45.3___acorn@8.15.0__vite@7.2.6___picomatch@4.0.3_vite@7.2.6__picomatch@4.0.3",
     "npm:@sveltejs/kit@^2.47.1": "2.49.0_@sveltejs+vite-plugin-svelte@6.2.1__svelte@5.45.3___acorn@8.15.0__vite@7.2.6___picomatch@4.0.3_svelte@5.45.3__acorn@8.15.0_vite@7.2.6__picomatch@4.0.3_acorn@8.15.0",
     "npm:@sveltejs/vite-plugin-svelte@^6.2.1": "6.2.1_svelte@5.45.3__acorn@8.15.0_vite@7.2.6__picomatch@4.0.3",
-    "npm:debug@4.4.3": "4.4.3",
-    "npm:debug@^4.4.3": "4.4.3",
     "npm:mdsvex@~0.12.6": "0.12.6_svelte@5.45.3__acorn@8.15.0",
-    "npm:runed@0.37": "0.37.0_@sveltejs+kit@2.49.0__@sveltejs+vite-plugin-svelte@6.2.1___svelte@5.45.3____acorn@8.15.0___vite@7.2.6____picomatch@4.0.3__svelte@5.45.3___acorn@8.15.0__vite@7.2.6___picomatch@4.0.3__acorn@8.15.0_svelte@5.45.3__acorn@8.15.0_@sveltejs+vite-plugin-svelte@6.2.1__svelte@5.45.3___acorn@8.15.0__vite@7.2.6___picomatch@4.0.3_vite@7.2.6__picomatch@4.0.3",
-    "npm:runed@0.37.0": "0.37.0_@sveltejs+kit@2.49.0__@sveltejs+vite-plugin-svelte@6.2.1___svelte@5.45.3____acorn@8.15.0___vite@7.2.6____picomatch@4.0.3__svelte@5.45.3___acorn@8.15.0__vite@7.2.6___picomatch@4.0.3__acorn@8.15.0_svelte@5.45.3__acorn@8.15.0_@sveltejs+vite-plugin-svelte@6.2.1__svelte@5.45.3___acorn@8.15.0__vite@7.2.6___picomatch@4.0.3_vite@7.2.6__picomatch@4.0.3",
     "npm:svelte-check@^4.3.3": "4.3.4_svelte@5.45.3__acorn@8.15.0_typescript@5.9.3",
     "npm:svelte@^5.41.0": "5.45.3_acorn@8.15.0",
     "npm:typescript@^5.9.3": "5.9.3",
@@ -694,13 +690,6 @@
     }
   },
   "workspace": {
-    "dependencies": [
-      "npm:@sveltejs/adapter-auto@7",
-      "npm:@sveltejs/vite-plugin-svelte@^6.2.1",
-      "npm:debug@4.4.3",
-      "npm:mdsvex@~0.12.6",
-      "npm:runed@0.37.0"
-    ],
     "packageJson": {
       "dependencies": [
         "npm:@sveltejs/adapter-auto@7",
