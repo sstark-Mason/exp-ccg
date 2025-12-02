@@ -1,0 +1,25 @@
+---
+title: "Welcome"
+---
+<script>
+  import { goto } from "$app/navigation";
+</script>
+
+# Welcome
+
+This is an experiment that investigates individual decision-making.
+
+<details>
+  <summary>Full consent form</summary>
+  <p>
+    By participating in this experiment, you are implicitly giving your consent
+    to participate in this experiment.
+  </p>
+  <!-- <p>Bottom text.</p> -->
+</details>
+
+<br>
+
+
+
+<input type="button" id="next-button" value="I agree" onclick={() => goto('/instructions/overview')}/>
